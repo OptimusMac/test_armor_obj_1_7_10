@@ -6,7 +6,7 @@ import net.minecraft.item.ItemArmor.ArmorMaterial;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.registry.GameRegistry;
 
-@Mod(modid = TestArmorObjMOD.MODID, name = TestArmorObjMOD.NAME, version = TestArmorObjMOD.VERSION, dependencies = "required-after:SMT|CORE", useMetadata = true)
+@Mod(modid = TestArmorObjMOD.MODID, name = TestArmorObjMOD.NAME, version = TestArmorObjMOD.VERSION)
 public class TestArmorObjMOD {
 
 	public static final String
